@@ -1,0 +1,6 @@
+build/
+bin/
+virtual_com
+*.log
+.vscode/
+.idea/
